@@ -13,3 +13,10 @@ Start the dev server,
 ```bash
 $ yarn start
 ```
+
+
+Query current user ,
+
+```
+http://localhost:8001/first
+```
